@@ -1,1 +1,1 @@
-# banker-s-algorithm-
+操作系统的银行家算法
